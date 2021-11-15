@@ -1,0 +1,68 @@
+{
+  "data": {
+    "accounts": {
+      "nodes": [
+        {
+          "account": "12H7nsDUrJUSCQQJrTKAFfyCWSactiSdjoVUixqcd9CZHTGt",
+          "balance": "2000000"
+        },
+        {
+          "account": "15zF7zvdUiy2eYCgN6KWbv2SJPdbSP6vdHs1YTZDGjRcSMHN",
+          "balance": "2000000"
+        },
+        {
+          "account": "16SpacegeUTft9v3ts27CEC3tJaxgvE4uZeCctThFH3Vb24p",
+          "balance": "2000000"
+        },
+        {
+          "account": "13wY4rD88C3Xzd4brFMPkAMEMC3dSuAR2NC6PZ5BEsZ5t6rJ",
+          "balance": "2000000"
+        },
+        {
+          "account": "167f5SpFqXtEKEShxjKVWG2YbmrzLuLAL1DFNZcMGDxRgFhM",
+          "balance": "2000000"
+        },
+        {
+          "account": "1REAJ1k691g5Eqqg9gL7vvZCBG7FCCZ8zgQkZWd4va5ESih",
+          "balance": "2000000"
+        },
+        {
+          "account": "167f5SpFqXtEKEShxjKVWG2YbmrzLuLAL1DFNZcMGDxRgFhM",
+          "balance": "2000000"
+        },
+        {
+          "account": "15zF7zvdUiy2eYCgN6KWbv2SJPdbSP6vdHs1YTZDGjRcSMHN",
+          "balance": "2000000"
+        },
+        {
+          "account": "146YJHyD5cjFN77HrfKhxUFbU8WjApwk9ncGD6NbxE66vhMS",
+          "balance": "2000000"
+        },
+        {
+          "account": "13wY4rD88C3Xzd4brFMPkAMEMC3dSuAR2NC6PZ5BEsZ5t6rJ",
+          "balance": "2000000"
+        },
+        {
+          "account": "1REAJ1k691g5Eqqg9gL7vvZCBG7FCCZ8zgQkZWd4va5ESih",
+          "balance": "2000000"
+        },
+        {
+          "account": "14cstG1jBDJuPGcAf41cmX6QWuF2AxN3sMWaxtPac9D5cToJ",
+          "balance": "2000000"
+        },
+        {
+          "account": "12H7nsDUrJUSCQQJrTKAFfyCWSactiSdjoVUixqcd9CZHTGt",
+          "balance": "2000000"
+        },
+        {
+          "account": "14cstG1jBDJuPGcAf41cmX6QWuF2AxN3sMWaxtPac9D5cToJ",
+          "balance": "2000000"
+        },
+        {
+          "account": "167f5SpFqXtEKEShxjKVWG2YbmrzLuLAL1DFNZcMGDxRgFhM",
+          "balance": "2000000"
+        }
+      ]
+    }
+  }
+}
